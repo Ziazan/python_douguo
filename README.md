@@ -33,3 +33,7 @@ while not queue_list.empty():
   pool.submit(handle_search,queue_list.get()) # 函数 和参数
 .....
 ```
+
+## 参考
+1.[Python爬虫工程师必学——App数据抓取实战](https://coding.imooc.com/class/283.html)
+2.[ImportError: No module named pymongo](https://blog.csdn.net/miao0967020148/article/details/80271299)
