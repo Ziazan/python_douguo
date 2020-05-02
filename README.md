@@ -4,12 +4,17 @@
 ## 主要功能
 爬取豆果美食APP菜谱分类中的菜谱数据，并存到mongodb
 
-## 架构
+## 框架
 1.whistle 分析数据包
+
 2.夜神安卓模拟器 安装豆果app
+
 3.python 编写爬虫代码
+
 4.vscode 编辑器
+
 5.mongodb 存储数据
+
 6.ROBO 3T mongoDB可视化工具 
 
 ## 遇到的问题
@@ -36,4 +41,5 @@ while not queue_list.empty():
 
 ## 参考
 1.[Python爬虫工程师必学——App数据抓取实战](https://coding.imooc.com/class/283.html)
+
 2.[ImportError: No module named pymongo](https://blog.csdn.net/miao0967020148/article/details/80271299)
